@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="Question1">1. James Rhodes, Tony Stark’s best friend, is known as what when he puts on his suit?</string>
+    <string name="Question2">2. What is the name of the artifact (containing an infinity stone) that Stephen Strange uses to manipulate time?</string>
+    <string name="Question3">3. Quicksilver and Scarlet Witch appear in Avengers: Age of Ultron. But what are their “real” names?</string>
+    <string name="Question4">4. Which Infinity Stone does Vision have embedded into his forehead?</string>
+    <string name="Question5">5. Sam Wilson is better known as?</string>
+    <string name="Question6">6. What is “Pepper” Potts first name?( Hint: Begins with V )</string>
+    <string name="Question7">7. How many Infinity Stones are there?</string>
+    <string name="Question8">8. Who all out of the following were in IRONMANs Team in Captain America: Civil War  ?</string>
+
+    <string name="RadioButtonQuestionOneOptionOne">Hulk Buster</string>
+    <string name="RadioButtonQuestionOneOptionTwo">War Machine</string>
+    <string name="RadioButtonQuestionOneOptionThree">Mark 3</string>
+
+    <string name="RadioButtonQuestionTwoOptionOne">The Mandala Of Light</string>
+    <string name="RadioButtonQuestionTwoOptionTwo">The Eye Of Agamatto</string>
+    <string name="RadioButtonQuestionTwoOptionThree">Kun Lun</string>
+
+    <string name="RadioButtonQuestionThreeOptionOne">Vasily and Lynda Mihailovic</string>
+    <string name="RadioButtonQuestionThreeOptionTwo">Anatoly and Anna Ransakhov</string>
+    <string name="RadioButtonQuestionThreeOptionThree">Pietro and Wanda Maximoff</string>
+
+    <string name="RadioButtonQuestionFourOptionOne">The Mind Stone</string>
+    <string name="RadioButtonQuestionFourOptionTwo">The Space Stone</string>
+    <string name="RadioButtonQuestionFourOptionThree">The Time Stone</string>
+
+    <string name="Typehere">Type Here</string>
+
+    <string name="RadioButtonQuestionSevenOptionOne">8</string>
+    <string name="RadioButtonQuestionSevenOptionTwo">4</string>
+    <string name="RadioButtonQuestionSevenOptionThree">6</string>
+
+    <string name="CheckBoxQuestionEightOptionOne">Black Widow</string>
+    <string name="CheckBoxQuestionEightOptionTwo">SpiderMan</string>
+    <string name="CheckBoxQuestionEightOptionThree">Falcon</string>
+    <string name="CheckBoxQuestionEightOptionFour">Vision</string>
+
+    <string name="ButtonSubmit">Submit</string>
+    <string name="ButtonReset">Reset</string>
+
+    <string name="AnswerFive">falcon</string>
+    <string name="AnswerSix">virginia</string>
+
+</resources>
