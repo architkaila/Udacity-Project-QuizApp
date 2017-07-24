@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/Question1"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="16sp" />
 
             <ImageView
@@ -51,17 +51,17 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionOneOptionOne"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
-                    android:id="@+id/correctAnswerOne"
+                    android:id="@+id/rb_CorrectAnswerOne"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionOneOptionTwo"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
@@ -70,7 +70,7 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionOneOptionThree"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
             </RadioGroup>
 
@@ -91,7 +91,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/Question2"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="16sp" />
 
             <ImageView
@@ -114,17 +114,17 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionTwoOptionOne"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
-                    android:id="@+id/correctAnswerTwo"
+                    android:id="@+id/rb_CorrectAnswerTwo"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionTwoOptionTwo"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
@@ -133,7 +133,7 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionTwoOptionThree"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
             </RadioGroup>
 
@@ -155,7 +155,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/Question3"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="16sp" />
 
             <ImageView
@@ -178,7 +178,7 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionThreeOptionOne"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
@@ -187,17 +187,17 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionThreeOptionTwo"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
-                    android:id="@+id/correctAnswerThree"
+                    android:id="@+id/rb_CorrectAnswerThree"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionThreeOptionThree"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
             </RadioGroup>
 
@@ -218,7 +218,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/Question4"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="16sp" />
 
             <ImageView
@@ -236,13 +236,13 @@
                 android:layout_height="wrap_content">
 
                 <RadioButton
-                    android:id="@+id/correctAnswerFour"
+                    android:id="@+id/rb_CorrectAnswerFour"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionFourOptionOne"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
@@ -251,7 +251,7 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionFourOptionTwo"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
@@ -260,7 +260,7 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionFourOptionThree"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
             </RadioGroup>
 
@@ -281,7 +281,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/Question5"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="16sp" />
 
             <ImageView
@@ -294,12 +294,12 @@
                 android:src="@drawable/q5" />
 
             <EditText
-                android:id="@+id/userResponseFive"
+                android:id="@+id/userResponse_AnswerFive"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:hint="@string/Typehere"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="14sp" />
         </LinearLayout>
 
@@ -318,7 +318,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/Question6"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="16sp" />
 
             <ImageView
@@ -331,12 +331,12 @@
                 android:src="@drawable/q6" />
 
             <EditText
-                android:id="@+id/userResponseSix"
+                android:id="@+id/userResponse_AnswerSix"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:hint="@string/Typehere"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="14sp" />
         </LinearLayout>
 
@@ -355,7 +355,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/Question7"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="16sp" />
 
             <ImageView
@@ -378,7 +378,7 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionSevenOptionOne"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
@@ -387,17 +387,17 @@
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionSevenOptionTwo"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
 
                 <RadioButton
-                    android:id="@+id/correctAnswerSeven"
+                    android:id="@+id/rb_CorrectAnswerSeven"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-medium"
                     android:paddingLeft="10dp"
                     android:text="@string/RadioButtonQuestionSevenOptionThree"
-                    android:textColor="#616161"
+                    android:textColor="@color/text_color"
                     android:textSize="14sp" />
             </RadioGroup>
 
@@ -418,7 +418,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
                 android:text="@string/Question8"
-                android:textColor="#616161"
+                android:textColor="@color/text_color"
                 android:textSize="16sp" />
 
             <ImageView
@@ -431,44 +431,28 @@
                 android:src="@drawable/q8" />
 
             <CheckBox
-                android:id="@+id/correctAnswerEight_1"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="sans-serif-medium"
-                android:paddingLeft="10dp"
+                android:id="@+id/cb_CorrectAnswerEight_1"
+                style="@style/CustomCheckBoxStyle"
                 android:text="@string/CheckBoxQuestionEightOptionOne"
-                android:textColor="#616161"
-                android:textSize="14sp" />
+                android:textColor="@color/text_color" />
 
             <CheckBox
-                android:id="@+id/correctAnswerEight_2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="sans-serif-medium"
-                android:paddingLeft="10dp"
+                android:id="@+id/cb_CorrectAnswerEight_2"
+                style="@style/CustomCheckBoxStyle"
                 android:text="@string/CheckBoxQuestionEightOptionTwo"
-                android:textColor="#616161"
-                android:textSize="14sp" />
+                android:textColor="@color/text_color" />
 
             <CheckBox
-                android:id="@+id/wrongAnswerEight"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="sans-serif-medium"
-                android:paddingLeft="10dp"
+                android:id="@+id/cb_WrongAnswerEight"
+                style="@style/CustomCheckBoxStyle"
                 android:text="@string/CheckBoxQuestionEightOptionThree"
-                android:textColor="#616161"
-                android:textSize="14sp" />
+                android:textColor="@color/text_color" />
 
             <CheckBox
-                android:id="@+id/correctAnswerEight_3"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="sans-serif-medium"
-                android:paddingLeft="10dp"
+                android:id="@+id/cb_CorrectAnswerEight_3"
+                style="@style/CustomCheckBoxStyle"
                 android:text="@string/CheckBoxQuestionEightOptionFour"
-                android:textColor="#616161"
-                android:textSize="14sp" />
+                android:textColor="@color/text_color" />
 
 
         </LinearLayout>

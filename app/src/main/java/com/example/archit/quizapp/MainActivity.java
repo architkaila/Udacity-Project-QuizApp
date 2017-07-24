@@ -1,14 +1,13 @@
 package com.example.archit.quizapp;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.ScrollView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -39,18 +38,18 @@ public class MainActivity extends AppCompatActivity {
 
         scroll = (ScrollView) findViewById(R.id.Scroll);
 
-        question1 = (RadioButton) findViewById(R.id.correctAnswerOne);
-        question2 = (RadioButton) findViewById(R.id.correctAnswerTwo);
-        question3 = (RadioButton) findViewById(R.id.correctAnswerThree);
-        question4 = (RadioButton) findViewById(R.id.correctAnswerFour);
-        question5 = (EditText) findViewById(R.id.userResponseFive);
-        question6 = (EditText) findViewById(R.id.userResponseSix);
-        question7 = (RadioButton) findViewById(R.id.correctAnswerSeven);
-        question8_1 = (CheckBox) findViewById(R.id.correctAnswerEight_1);
-        question8_2 = (CheckBox) findViewById(R.id.correctAnswerEight_2);
-        question8_4 = (CheckBox) findViewById(R.id.correctAnswerEight_3);
+        question1 = (RadioButton) findViewById(R.id.rb_CorrectAnswerOne);
+        question2 = (RadioButton) findViewById(R.id.rb_CorrectAnswerTwo);
+        question3 = (RadioButton) findViewById(R.id.rb_CorrectAnswerThree);
+        question4 = (RadioButton) findViewById(R.id.rb_CorrectAnswerFour);
+        question5 = (EditText) findViewById(R.id.userResponse_AnswerFive);
+        question6 = (EditText) findViewById(R.id.userResponse_AnswerSix);
+        question7 = (RadioButton) findViewById(R.id.rb_CorrectAnswerSeven);
+        question8_1 = (CheckBox) findViewById(R.id.cb_CorrectAnswerEight_1);
+        question8_2 = (CheckBox) findViewById(R.id.cb_CorrectAnswerEight_2);
+        question8_4 = (CheckBox) findViewById(R.id.cb_CorrectAnswerEight_3);
 
-        wrongAnswerEight = (CheckBox) findViewById(R.id.wrongAnswerEight);
+        wrongAnswerEight = (CheckBox) findViewById(R.id.cb_WrongAnswerEight);
         radioGroupOne = (RadioGroup) findViewById(R.id.radioGroupOne);
         radioGroupTwo = (RadioGroup) findViewById(R.id.radioGroupTwo);
         radioGroupThree = (RadioGroup) findViewById(R.id.radioGroupThree);
